@@ -30,6 +30,17 @@
     }
   },
   "en": {
+    "newgame": "NEW GAME",
+    "continue": "CONTINUE",
+    "li_1": "Obtain two cells to pass this stage",
+    "li_2": "Obtain four cells to pass this stage",
+    "li_3": "Obtain six cells to pass this stage",
+    "stagewin": "Exelent job! Keep the life growing!",
+    "levelwin_1": "Exelent job! You are a bacteria expert!",
+    "levelwin_2": "Exelent job! You are a expert on plant cells!",
+    "levelwin_3": "Exelent job! You are a expert on animal cells!",
+    "stagelose": "Oh, no! It´s not easy to get by this tiny world",
+    "levelsaveopt": "Oh, no! Those mean viruses... But don't worry! Maybe, if you can answer this question you can get back in a flash to keep those cells growing!",
     "ct_1_1": "Cells are tiny, so tiny that we need a MICROSCOPE to be able to see them...",
     "ct_1_2": "The CELL is the most basic unit that can be classified as a LIVING THING",
     "ct_1_3": "All organisms contain at least one CELL",
@@ -44,6 +55,7 @@
     "tt_1_6": "GLUCOSE to break it and recharge your cells ATP energy bar",
     "tt_1_7": "OXYGEN is needed but bacteria can do without it by FERMENTATION",
     "tt_1_8": "Click repeatedly on cell to excrete an absorbed virus before is too late!",
+
     "ct_2_1": "Animals and plants are MULTICELLULAR organisms; they have MILLONS of cells!",
     "ct_2_2": "EUKARYOTIC cells have a nucleus where the DNA is located. These cells are found in Animals, Plants, Fungi and some protists",
     "ct_2_3": "EUKARYOTIC cells also have ORGANELLES inside them",
