@@ -10,7 +10,10 @@
     "levelwin_2": "Exelent job! You are a expert on plant cells!",
     "levelwin_3": "Exelent job! You are a expert on animal cells!",
     "stagelose": "Oh, no! It´s not easy to get by this tiny world",
-    "levelsaveopt": "Oh, no! Those mean viruses... But don't worry! Maybe, if you can answer this question you can get back in a flash to keep those cells growing!",
+    "levelsaveopt_1": "Those mean viruses... But don't worry!",
+    "levelsaveopt_2": "Maybe, if you can answer this question you can get back in a flash to keep those cells growing!",
+    "correct_save": "Excelent! Wasn't expecting less from you",
+    "incorrect_save": "Oh my, I guess that you should restart the level",
     "ct_1_1": "Cells are tiny, so tiny that we need a MICROSCOPE to be able to see them...",
     "ct_1_2": "The CELL is the most basic unit that can be classified as a LIVING THING",
     "ct_1_3": "All organisms contain at least one CELL",
@@ -30,15 +33,21 @@
     "ct_2_3": "These cells are found in Animals, Plants, Fungi and some protists",
     "ct_2_4": "EUKARYOTIC cells also have ORGANELLES inside them",
     "ct_2_5": "These ORGANELLES help the CELL to perform the basic functions of life:",
-    "ct_2_6": "\n1)growth\n2)reproduction\n3)processing/using energy\n4)responding to stimuli\n5)excreting waste\n6)maintaining homeostasis",
+    "ct_2_6": "1)growth\n2)reproduction\n3)processing/using energy\n4)responding to stimuli\n5)excreting waste\n6)maintaining homeostasis",
     "tt_2_1": "Put your cells under a beam of light to create GLUCOSE, this process is called PHOTOSYNTHESIS",
     "tt_2_2": "To break that GLUCOSE you need to absorb OXYGEN particles first",
     "ct_3_1": "Humans have about 200 different types of specialized cells that make up the different tissues, organs, and systems in our body”",
     "s_q_1_1": "Esta es una pregunta de salvataje",
-    "s_a_1_1": "Esta es una pregunta de salvataje",
-    "s_a_1_2": "Esta es una pregunta de salvataje",
-    "s_a_1_3": "Esta es una pregunta de salvataje",
-    "s_a_1_4": "Esta es una pregunta de salvataje"
+    "s_a_1_1": "Correcta",
+    "s_a_1_2": "Incorrecta",
+    "s_a_1_3": "Incorrecta",
+    "s_a_1_4": "Incorrecta",
+    "s_q_2_1": "Esta es una pregunta de salvataje 2",
+    "s_a_2_1": "Correcta",
+    "s_a_2_2": "Incorrecta",
+    "s_a_2_3": "Incorrecta",
+    "s_a_2_4": "Incorrecta"
+
   },
   "_meta": {
     "maxChars": {
@@ -52,7 +61,8 @@
       "levelwin_2": 50,
       "levelwin_3": 50,
       "stagelose": 50,
-      "levelsaveopt": 50,
+      "levelsaveopt_1": 50,
+      "levelsaveopt_2": 50,
       "ct_1_1": 50,
       "ct_1_2": 50,
       "ct_1_3": 50,
@@ -80,7 +90,12 @@
       "s_a_1_1": 50,
       "s_a_1_2": 50,
       "s_a_1_3": 50,
-      "s_a_1_4": 50
+      "s_a_1_4": 50,
+      "s_q_2_1": 50,
+      "s_a_2_1": 50,
+      "s_a_2_2": 50,
+      "s_a_2_3": 50,
+      "s_a_2_4": 50
     }
   }
 }
