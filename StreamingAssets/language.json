@@ -72,7 +72,19 @@
     "s_a_a_2_1": "Organelles",
     "s_a_a_2_2": "Love to give",
     "s_a_a_2_3": "Incorrecta",
-    "s_a_a_2_4": "Incorrecta"
+    "s_a_a_2_4": "Incorrecta",
+    "warn_low_atp": "Low ATP energy",
+    "warn_full_atp": "ATP energy full",
+    "warn_infected": "Infected by virus!",
+    "warn_reproduce": "Reproduce by mitosis",
+    "warn_protein": "Absorb protein to grow",
+    "warn_glucose": "Break glucouse",
+    "warn_oxygen": "Required to  break Glucose",
+    "warn_pick_protein": "Growing...",
+    "warn_pick_glucose-o": "Oxygen is necessary",
+    "warn_pick_glucose-l": "Sunlight is necessary",
+    "warn_pick_glucose-o-l": "Oxygen and sunlight are necessary too",
+    "warn_pick_oxygen": "Oxygen Absorbed..."
   },
   "_meta": {
     "maxChars": {
@@ -148,7 +160,19 @@
       "s_a_a_2_1": 40,
       "s_a_a_2_2": 40,
       "s_a_a_2_3": 40,
-      "s_a_a_2_4": 40
+      "s_a_a_2_4": 40,
+      "warn_low_atp": 60,
+      "warn_full_atp": 60,
+      "warn_infected": 60,
+      "warn_reproduce": 60,
+      "warn_protein": 60,
+      "warn_glucose": 60,
+      "warn_oxygen": 60,
+      "warn_pick_protein": 60,
+      "warn_pick_glucose-o": 60,
+      "warn_pick_glucose-l": 60,
+      "warn_pick_glucose-o-l": 60,
+      "warn_pick_oxygen": 60
     }
   }
 }
