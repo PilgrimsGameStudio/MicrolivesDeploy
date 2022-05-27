@@ -1,7 +1,7 @@
 {
 "companyName": "Pilgrims",
 "productName": "Microlives",
-"productVersion": "1.1",
+"productVersion": "1.2",
 "dataUrl": "MicrolivesDeploy.data.unityweb",
 "wasmCodeUrl": "MicrolivesDeploy.wasm.code.unityweb",
 "wasmFrameworkUrl": "MicrolivesDeploy.wasm.framework.unityweb",
